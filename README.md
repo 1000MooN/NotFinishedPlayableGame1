@@ -1,4 +1,4 @@
-# NotFinishedUnityGames
+# NotFinishedUnityGame
 
 2D Platform Shooter 
 
