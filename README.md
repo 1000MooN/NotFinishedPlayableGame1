@@ -1,2 +1,7 @@
 # NotFinishedUnityGames
-Half of my unity learning projects
+
+2D Platform Shooter 
+
+One of my unity learning projects
+
+
