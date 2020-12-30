@@ -1,6 +1,6 @@
 # NotFinishedUnityGame
 
-2D Platform Shooter 
+2D 
 
 One of my unity learning projects
 
