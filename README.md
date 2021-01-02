@@ -2,6 +2,6 @@
 
 2D 
 
-One of my unity learning projects
+I made it while learning Unity Game Engine
 
 PC
